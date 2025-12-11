@@ -1,0 +1,14 @@
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\bin\Debug\net9.0-windows\Kpo.exe
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\bin\Debug\net9.0-windows\Kpo.deps.json
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\bin\Debug\net9.0-windows\Kpo.runtimeconfig.json
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\bin\Debug\net9.0-windows\Kpo.dll
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\bin\Debug\net9.0-windows\Kpo.pdb
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.AssemblyInfoInputs.cache
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.AssemblyInfo.cs
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.csproj.CoreCompileInputs.cache
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.dll
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\refint\Kpo.dll
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.pdb
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\Kpo.genruntimeconfig.cache
+C:\Users\256bit.by\RiderProjects\Kpo\Kpo\obj\Debug\net9.0-windows\ref\Kpo.dll

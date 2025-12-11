@@ -1,0 +1,34 @@
+<catalog>
+  <category>
+    <name>Fruits</name>
+    <products>
+      <product>
+        <name>Apple</name>
+        <proteins>0.3</proteins>
+        <fats>0.2</fats>
+        <carbs>14</carbs>
+        <calories>52</calories>
+      </product>
+      <product>
+        <name>Banana</name>
+        <proteins>1.1</proteins>
+        <fats>0.3</fats>
+        <carbs>23</carbs>
+        <calories>96</calories>
+      </product>
+    </products>
+  </category>
+
+  <category>
+    <name>Vegetables</name>
+    <products>
+      <product>
+        <name>Carrot</name>
+        <proteins>0.9</proteins>
+        <fats>0.2</fats>
+        <carbs>10</carbs>
+        <calories>41</calories>
+      </product>
+    </products>
+  </category>
+</catalog>
